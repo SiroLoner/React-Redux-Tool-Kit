@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+
+.ant-select-multiple .ant-select-selection-item {
+  height: 27px;
+}
+
+.content {
+  width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0 0 10px 4px #bfbfbf;
+  border-radius: 5px;
+  height: 90vh;
+}
